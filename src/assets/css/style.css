@@ -1,0 +1,12 @@
+html,body,li,ul,ol,dl,dd,dt,p,h1,h2,h3,h4,h5,h6,form,fieldset,legend,img,input,figure{margin:0;padding:0;}
+body{font-family:'Microsoft YaHei',Tahoma, Helvetica, Arial, sans-serif;display:flex;flex-direction:column;}
+html,body{height: 100%;}
+Ul,ol,li{list-style:none;}
+a,u{text-decoration:none;}
+i,em{font-style:normal;}
+b,strong{font-weight:100;}
+h1,h2,h3,h4,h5,h6{font-size:16px;font-weight:100;}
+img{border:0;display:block;}
+input{outline:none;}
+.clearfix:after{content:".";clear:both;display:block;height:0;overflow:hidden;visibility:hidden;}
+
